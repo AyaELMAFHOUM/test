@@ -1,5 +1,5 @@
 {
-  "name": "cms",
+  "name": "cmas",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -35,7 +35,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "75c78041-4a06-4d7a-bd3f-720b675784df",
-    "installId": "2883d264559a691abe2139a87f6fcf17dad1783411313d4f14a6833e838b8f23"
+    "uuid": "86d1e616-c718-4600-b251-a254dd3827de",
+    "installId": "b0225250c57770aa2ce8aedccd27f85c28d87f90a01ef0214db0a5650880a1ac"
   }
 }
